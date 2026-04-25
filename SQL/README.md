@@ -1,4 +1,4 @@
-<h1 align="center"> Digital Library Management System </h1>
+<h1 align="center"> The "Digital Library" Audit </h1>
 
 * This project is a Digital Library Management System implemented using MySQL. It manages books, students, and issued records, and performs analysis such as overdue tracking and category popularity..
 
